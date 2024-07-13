@@ -154,4 +154,24 @@ In Home view, all the views button will be available. User will land on specific
 * Marketing View
 * Supply chain View
 * Support
-🌟Overall Report
+
+# 🌟Overall Report
+https://github.com/user-attachments/assets/f89ee2d4-6892-44be-bc0b-42d3775465ca
+
+# 💵Finance View
+https://github.com/user-attachments/assets/97a915a4-a709-4f99-8f43-c08eebaaea29
+
+# 🏷️Sales View
+https://github.com/user-attachments/assets/306c1886-b74c-40de-b8bb-c0654b61daf1
+
+# 🛒Marketing View
+https://github.com/user-attachments/assets/e0346aab-a7ea-4267-b41e-8b707ae79823
+
+# 🚚Supply Chain View
+https://github.com/user-attachments/assets/92d5139e-d386-4c98-b946-73de5954f28b
+
+
+# 🎯Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+You Can Find the Full Project [Here](https://mega.nz/file/RQ50nQ4C#zyo88Fa056PttbTGreLOAB4HnL2QTN_dCjX_l0V4-2Q)
+
