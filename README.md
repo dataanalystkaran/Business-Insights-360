@@ -173,5 +173,5 @@ https://github.com/user-attachments/assets/92d5139e-d386-4c98-b946-73de5954f28b
 
 # 🎯Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
-You Can Find the Full Project [Here](https://mega.nz/file/RQ50nQ4C#zyo88Fa056PttbTGreLOAB4HnL2QTN_dCjX_l0V4-2Q)
+You Can Find the Full Project [Here](https://app.powerbi.com/view?r=eyJrIjoiZjE3ZDIyZTMtNjQ0MC00YzI5LTgyY2QtZWYwYTZhZmEyZDdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
